@@ -28,25 +28,24 @@ image:
 projects: [myproject1]
 ---
 
-# Das ist der erste Eintrag
+# Erste Eintrag
 
-Hier werde ich erstmal meine Screenshots für die verbleibenden Assignments posten.
+Hier werde ich erstmal den Status, für die verbleibenden Assignments posten.
 
-Wie jeder Blog, kommt hier der erste Eintrag.
-
-Eine Übersicht welche Themen hier zu finden sind:
+## Die wichtigsten Inhalte:
 
 - **Studiumsinhalte**
     + [x] Projektplanungsübersicht von noch offenen Modulen
-    + [ ] Übersicht abgeschlossene Module
+    + [ ] Übersicht abgeschlossener Module
 
 ---
 
-Geplante Inhalte
+### Geplante Inhalte:
 
+- [ ] Kategorien anlegen
 - [ ] Eigene digitalisierte Studienunterlagen
 - [ ] DIY Projekte - Präsentation
-- [ ] Private Knowledgebase - Wikiseite
-- [ ] Hands-on Projekte - How To
-- [ ] Logging Formular
-- [ ] Verbinden mit Jupyter Notebook
+- [ ] Private Knowledgebase - Wikiseite einbinden
+- [ ] Hands-on Projekte - How-To's
+- [ ] Logging Formular - Versteckte Seiten
+- [ ] Verbinden mit Jupyter Notebook 
