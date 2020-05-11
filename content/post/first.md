@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Über diesen Blog"
-subtitle: "Eine kleine Einführung"
-summary: "Wichtig zum verstehen"
+subtitle: "Was kann man hier erwarten"
+summary: "Was"
 authors: []
 tags: [erster Eintrag, sonstiges]
 categories: []
@@ -37,12 +37,16 @@ Wie jeder Blog, kommt hier der erste Eintrag.
 Eine Übersicht welche Themen hier zu finden sind:
 
 - **Studiumsinhalte**
-    + Projektplanungsübersicht von noch offenen Modulen
-    + Übersicht abgeschlossene Module
+    + [x] Projektplanungsübersicht von noch offenen Modulen
+    + [ ] Übersicht abgeschlossene Module
 
-Eine Übersicht von Inhalten, die geplant sind:
+---
 
-- Eigene digitalisierte Studienunterlagen
-- DIY Projekte - Präsentation
-- Private Knowledgebase - Wikiseite
-- Hands-on Projekte - How To
+Geplante Inhalte
+
+- [ ] Eigene digitalisierte Studienunterlagen
+- [ ] DIY Projekte - Präsentation
+- [ ] Private Knowledgebase - Wikiseite
+- [ ] Hands-on Projekte - How To
+- [ ] Logging Formular
+- [ ] Verbinden mit Jupyter Notebook

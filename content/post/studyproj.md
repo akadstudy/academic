@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Studienarbeiten"
+title: "Studienarbeiten - Status"
 subtitle: ""
 summary: "Wird täglich aktualisiert"
 authors: []
