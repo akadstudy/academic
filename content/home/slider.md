@@ -17,25 +17,25 @@ height = "350px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Willkommen"
-  content = ""
+  content = "Mit dem Button kommt man direkt zum Status der Studienarbeiten"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "green.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "land.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  # cta_label = "My Page"
-  # cta_url = "https://studyblog.netlify.app/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+   cta_label = "Status"
+   cta_url = "https://studyblog.netlify.app/post/studyproj/"
+   cta_icon_pack = "fas"
+   cta_icon = "graduation-cap"
 
 #[[item]]
-#  title = "New Item"
+#  title = "Status"
 #  content = ""
 #  align = "center"
 

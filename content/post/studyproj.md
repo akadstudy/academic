@@ -5,7 +5,7 @@ title: "Studienarbeiten - Status"
 subtitle: ""
 summary: "Wird täglich aktualisiert"
 authors: []
-tags: []
+tags: [studium, status, gantt, module]
 categories: []
 date: 2020-05-11T19:04:47+02:00
 lastmod: 2020-05-11T19:04:47+02:00
@@ -28,36 +28,36 @@ image:
 projects: []
 ---
 
-# Gantt Diagramm Übersicht
+# Übersicht
 
-## <p style="color:green">Modul 1
+## <p style="color:green">Kampfmittelbeseitigungsroboter
 </p>
 
-<p style="color:green">Hier erscheint die Gantt Übersicht zum Modul 1
+<p style="color:green">Hier erscheint die Gantt Übersicht zu <b>Kampfmittelbeseitigungsroboter</b>
 </p>
 
 {{< figure library="true" src="mod1.png" title="Stand: 11.Mai" lightbox="true" >}}
 
-## <p style="color:orange">Modul 2
+## <p style="color:orange">Bildbearbeitung und Korrektur
 </p>
 
-<p style="color:orange">Hier erscheint die Gantt Übersicht zum Modul 2
+<p style="color:orange">Hier erscheint die Gantt Übersicht zu <b>Bildbearbeitung und Korrektur</b>
 </p>
 
 {{< figure library="true" src="mod2.png" title="Stand: 11.Mai" lightbox="true" >}}
 
-## <p style="color:red">Modul 3
+## <p style="color:red">Softwareentwicklung Petri-Netz
 </p>
 
-<p style="color:red">Hier erscheint die Gantt Übersicht zum Modul 3
+<p style="color:red">Hier erscheint die Gantt Übersicht zu <b>Softwareentwicklung Petri-Netz</b>
 </p>
 
 {{< figure library="true" src="mod3.png" title="Stand: 11.Mai" lightbox="true" >}}
 
-## <p style="color:blue">Modul 4
+## <p style="color:blue">Zwei Flüssigkeitsbehälter ohne Interaktion
 </p>
 
-<p style="color:blue">Hier erscheint die Gantt Übersicht zum Modul 4
+<p style="color:blue">Hier erscheint die Gantt Übersicht zu <b>Zwei Flüssigkeitsbehälter ohne Interaktion</b>
 </p>
 
 {{< figure library="true" src="mod4.png" title="Stand: 11.Mai" lightbox="true" >}}

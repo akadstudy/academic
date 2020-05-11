@@ -5,7 +5,7 @@ title: "Über diesen Blog"
 subtitle: "Was kann man hier erwarten"
 summary: "Was"
 authors: []
-tags: [erster Eintrag, sonstiges]
+tags: [blog, sonstiges]
 categories: []
 date: 2020-05-11T18:16:07+02:00
 lastmod: 2020-05-11T18:16:07+02:00
