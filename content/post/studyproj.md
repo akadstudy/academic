@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Studienarbeiten - Status"
+title: "Projektarbeit - Status"
 subtitle: ""
 summary: "Wird täglich aktualisiert"
 authors: []
@@ -61,6 +61,3 @@ projects: []
 </p>
 
 {{< figure library="true" src="mod4.png" title="Stand: 11.Mai" lightbox="true" >}}
-
-
-
