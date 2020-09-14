@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Über diesen Blog"
+title: "Der Blog"
 subtitle: "Was kann man hier erwarten"
 summary: "Was"
 authors: []
