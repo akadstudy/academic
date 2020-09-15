@@ -49,3 +49,4 @@ Hier werde ich erstmal den Status, für die verbleibenden Assignments posten.
 - [ ] Hands-on Projekte - How-To's
 - [ ] Logging Formular - Versteckte Seiten
 - [ ] Verbinden mit Jupyter Notebook 
+
